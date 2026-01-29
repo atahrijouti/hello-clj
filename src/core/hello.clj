@@ -13,4 +13,7 @@
   (h/say-hello)
   (-main)
 
-  (core.hello/say-hello))
+  (core.hello/say-hello)
+  (say-hello)
+;
+  )
